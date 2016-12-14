@@ -195,6 +195,12 @@ namespace Quản_Lý_Cửa_Hàng_Tiện_Lợi
 
         private void btTim_Click(object sender, EventArgs e)
         {
+           
+
+        }
+
+        private void btTim_Click_1(object sender, EventArgs e)
+        {
             string sql = "SELECT * FROM Nhanvien WHERE ";
             if (rdma.Checked == true)
             {
@@ -212,7 +218,6 @@ namespace Quản_Lý_Cửa_Hàng_Tiện_Lợi
             }
 
             dvgNhanvien1.DataSource = GetEmployee(sql);
-
 
         }
     }

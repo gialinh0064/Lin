@@ -41,3 +41,18 @@ C:\Users\Linh\Desktop\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng
 C:\Users\Linh\Desktop\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản Lý Cửa Hàng Tiện Lợi.csproj.GenerateResource.Cache
 C:\Users\Linh\Desktop\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\bin\Debug\Quản Lý Cửa Hàng Tiện Lợi.exe
 C:\Users\Linh\Desktop\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\bin\Debug\Quản Lý Cửa Hàng Tiện Lợi.pdb
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\bin\Debug\Quản Lý Cửa Hàng Tiện Lợi.exe.config
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản Lý Cửa Hàng Tiện Lợi.exe
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản Lý Cửa Hàng Tiện Lợi.pdb
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\bin\Debug\Quản Lý Cửa Hàng Tiện Lợi.exe
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\bin\Debug\Quản Lý Cửa Hàng Tiện Lợi.pdb
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản Lý Cửa Hàng Tiện Lợi.csprojResolveAssemblyReference.cache
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Form1.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Nhập_Xuất_Kiểm_Kê.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Properties.Resources.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Quan_Ly_Cua_Hang_Tien_Loi.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Thông_tin_hàng_hóa.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Thông_tin_Hóa_đơn.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Thông_tin_nhân_viên.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản_Lý_Cửa_Hàng_Tiện_Lợi.Đăng_nhập.resources
+C:\Users\Linh\Desktop\LTCSDL\Quản Lý Cửa Hàng Tiện Lợi\Quản Lý Cửa Hàng Tiện Lợi\obj\x86\Debug\Quản Lý Cửa Hàng Tiện Lợi.csproj.GenerateResource.Cache

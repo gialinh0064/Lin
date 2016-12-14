@@ -15,7 +15,7 @@ namespace Quản_Lý_Cửa_Hàng_Tiện_Lợi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Thông_tin_nhân_viên());
+            Application.Run(new Thông_tin_hàng_hóa());
         }
     }
 }
